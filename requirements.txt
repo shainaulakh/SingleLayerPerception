@@ -1,0 +1,6 @@
+numpy
+matplotlib
+torch
+tensorflow
+ipykernel
+notebook
